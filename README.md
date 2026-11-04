@@ -19,8 +19,8 @@ A project for a karaoke system for bars, for my 466 CSCI class at NIU (Group pro
 
 ## DJ interface
 
-    -Shows him both queues, dj picks who sings next. SHOW QUEUES SEPERATELY
-    -Includes name of person who signed up, name of song, band, etc.
+    - Shows him both queues, dj picks who sings next. SHOW QUEUES SEPERATELY
+    - Includes name of person who signed up, name of song, band, etc.
 
 
 
